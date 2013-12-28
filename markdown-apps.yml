@@ -158,4 +158,7 @@ ReText:
   platform: Linux
   website: http://sourceforge.net/projects/retext/
 
+WriteDown:
+  platform: iOS
+  website: http://vinhnx.github.io/writedown-site
 ...
